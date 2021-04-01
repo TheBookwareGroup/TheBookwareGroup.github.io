@@ -9,3 +9,11 @@ We meet online to hear about a good read, or share one with others.
 All IT products rely on *software*, and *hardware* to run it on. What can sometimes be forgotten is the knowledge you need to create that software, and the vast body of knowledge that's already out there to help.
 
 This is *Bookware*; the problems solved, the lessons learned, the patterns, the antipatterns, developed over decades and layed out for us to learn from.
+
+# How to get involved
+
+Join us on Slack with this [invitation link](https://join.slack.com/t/bookware/shared_invite/zt-oeq6s8ud-~zbNxfnEUK~cQMheVPdG8g). This is where we will advertise our upcoming meet ups and how to join them.
+
+## Next up
+
+15th April @ 20:00 BST: **The Phoenix Project** by Gene Kim, Kevin Behr and George Spafford.
