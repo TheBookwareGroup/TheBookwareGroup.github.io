@@ -16,6 +16,6 @@ Join us on Slack with this [invitation link](https://join.slack.com/t/bookware/s
 
 ## Next up
 
-15th April @ 20:00 BST: **The Phoenix Project** by Gene Kim, Kevin Behr and George Spafford.
+Tuesday 13th April @ 20:00 BST: **The Phoenix Project** by Gene Kim, Kevin Behr and George Spafford.
 
 ![The Phoenix Project book cover](assets/img/the-phoenix-project.png)
