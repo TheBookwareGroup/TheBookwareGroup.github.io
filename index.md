@@ -1,8 +1,14 @@
 # Welcome
 
-Welcome to anyone interested in the art of growing software products. Bookware is a group that gets together to present and discuss influential books, papers and blogs that have helped us in the may unique or ubiquitous challenges of our industry.
+Welcome to everyone interested in the art of growing software products. Bookware is a group that gets together to present and discuss influential books, papers and blogs that have helped us in the many unique or ubiquitous challenges of our industry.
 
 We meet online to hear about a good read, or share one with others.
+
+Our meet ups last about half an hour, with the following format:
+* 5 minutes welcome and introduction
+* 15 minutes presentation of the book
+* 10 minutes for Q&A
+* 10 minutes to wrap up, extended questions or discuss options for the next meet up.
 
 # What is Bookware
 
