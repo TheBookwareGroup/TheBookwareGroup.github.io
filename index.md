@@ -4,7 +4,7 @@ Welcome to anyone interested in the art of growing software products. Bookware i
 
 We meet online to hear about a good read, or share one with others.
 
-# What is Bookware?
+# What is Bookware
 
 All IT products rely on *software*, and *hardware* to run it on. What can sometimes be forgotten is the knowledge you need to create that software, and the vast body of knowledge that's already out there to help.
 
@@ -16,6 +16,6 @@ Join us on Slack with this [invitation link](https://join.slack.com/t/bookware/s
 
 ## Next up
 
-Tuesday 13th April @ 20:00 BST: **The Phoenix Project** by Gene Kim, Kevin Behr and George Spafford.
+Tuesday 4th May @ 20:00 BST: **Toyota Kata** by Mike Rother.
 
-![The Phoenix Project book cover](assets/img/the-phoenix-project.png)
+![Toyota Kata book cover](assets/img/toyota-kata.jpg)
