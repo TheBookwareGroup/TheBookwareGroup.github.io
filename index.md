@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Bookware
 
 Welcome to everyone interested in the art of growing software products. Bookware is a group that gets together to present and discuss influential books, papers and blogs that have helped us in the many unique or ubiquitous challenges of our industry.
 
