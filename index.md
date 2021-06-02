@@ -22,6 +22,6 @@ Join us on Slack with this [invitation link](https://join.slack.com/t/bookware/s
 
 ## Next up
 
-Tuesday 4th May @ 20:00 BST: **Toyota Kata** by Mike Rother.
+Thursday 10th June @ 20:15 BST: **Clean Architecture** by Robert C Martin (Uncle Bob).
 
-![Toyota Kata book cover](assets/img/toyota-kata.jpg)
+![Clean Architecture book cover](assets/img/clean-architecture.jpg)
