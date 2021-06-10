@@ -24,4 +24,12 @@ Join us on Slack with this [invitation link](https://join.slack.com/t/bookware/s
 
 Thursday 10th June @ 20:15 BST: **Clean Architecture** by Robert C Martin (Uncle Bob).
 
+Join the Zoom Meeting
+
+https://us02web.zoom.us/j/81189731399?pwd=andDNWFlaU5zY1hQOXpseC8wcjBCdz09
+
+Meeting ID: 811 8973 1399
+
+Passcode: 7PSrHt
+
 ![Clean Architecture book cover](assets/img/clean-architecture.jpg)
